@@ -16,8 +16,8 @@
 
         <li><a href="ouaga.php">OUAGADOUGOU</a></li>
         <li><a href="bobo.php">BOBO</a></li>
-        <li><a href="">KOUDOUGOU</a></li>
-        <a href="contact.php"><button>se connecter</button></a>
+        <!-- <li><a href="">KOUDOUGOU</a></li> -->
+        <a href="contact.php"><button>Register</button></a>
         </ul>
     </nav><br><br><br><br>
 

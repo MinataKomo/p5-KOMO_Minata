@@ -18,7 +18,8 @@
    </div>
 <br>
 
-
+<div id="triangle-1">se divertir</div>
+<div id="triangle-2"></div><br><br>
    <section class="diver">
             <div class="dive">
                <div class="src"> <img src="images/lan.jpg" alt=""></div>
@@ -75,11 +76,11 @@
                 
             </div> -->
 
-       </div>
+       <!-- </div> -->
     </section>
 <br>
 
-    <section class="diver">
+<!-- <section class="diver">
        <div>
        <h2>Ouagadougou</h2>
         <p class="p">se reposer</p>
@@ -88,19 +89,19 @@
        <div class="dive">
             <div class="di">
             <p class="o"> <img src="images/ho.jpg" alt=""></p>
-                <p class="ka">Symposium de sculpture sur granit de Laongo</p>
+                <p class    ="ka">Symposium de sculpture sur granit de Laongo</p>
                 
             </div>
             <div class="di">
             <p class="o"> <img src="images/ka.jpg" alt=""></p>
-                <p class="ka">Lancaster Ouaga 2000 |</p>
+                <p class="ka">Lancaster Ouaga 2000 |</p> -->
                 <!-- <button>Tout afficher</button> -->
-            </div>
+            <!-- </div>
             <div class="di">
-            <p class="o"> <img src="images/mer.jpg" alt=""></p>
-                <p class="ka" class="a-txt">Hôtel Mercure Silmandé</p>
+            <p class="o"> </p>
+                <p class="ka" class="a-txt"></p> -->
                 <!-- <button>Tout afficher</button> -->
-            </div>
+            <!-- </div>
 
        </div>
     </section>
@@ -119,20 +120,20 @@
             </div>
             <div class="di">
             <p class="o"> <img src="images/kp.jpg" alt=""></p>
-                <p>Symposium de sculpture sur granit de Laongo</p>
+                <p>Symposium de sculpture sur granit de Laongo</p> -->
                 <!-- <button>Tout afficher</button> -->
-            </div>
+            <!-- </div>
             <div class="di">
             <p class="o"> <img src="images/kp.jpg" alt=""></p>
-                <p>Symposium de sculpture sur granit de Laongo</p>
+                <p>Symposium de sculpture sur granit de Laongo</p> -->
                 <!-- <button>Tout afficher</button> -->
-            </div>
+            <!-- </div>
 
        </div>
     </section>
    <br>
 
-  </section>
+  </section> -->
     <!-- <p>diversion</p> -->
     
     <!-- sdfgh
@@ -147,9 +148,51 @@
     </section>
 
     z"edrftgyhuijk -->
+    <br><br>
+<div class="ht">
+    
+    <div class="to">
+        se reposer
+       
+        <div class="bt">
+            <img src="images/ka.jpg" alt="">
+            <img src="images/hotel-de-la-mer.jpg" alt="">
+        </div>
+        <div class="bt">
+            <img src="images/ka.jpg" alt="">
+            <img src="images/hotel-de-la-mer.jpg" alt="">
+        </div>
+    </div>
+    <div class="toi">
+        <h2>se restaurer</h2>
+        <div class="bt">
+            <img src="images/ka.jpg" alt="">
+            <img src="images/hotel-de-la-mer.jpg" alt="">
+        </div>
+        <div class="bt">
+            <img src="images/ka.jpg" alt="">
+            <img src="images/hotel-de-la-mer.jpg" alt="">
+        </div>
+    </div>
+</div>
+ <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -100 1680.75 200">
+            <path id="vague" fill="none" stroke="transparent"  d="M.36,90.6c44.09-46,109.57-98.57,182-88.81C257.49,11.92,271,78.85,348.25,90.6c95.57,14.54,119-81.74,230.15-85.82C683.51.93,697.28,86.67,808.54,87.61c109.2.92,119.91-81.46,229.25-86.82,134.34-6.58,155.42,100.19,279.57,89,114.46-10.31,163.52-104.74,260.11-77,37.71,10.82,87.6,58.49,102.89,77" />
+            <text font size="35px">  
+              <textPath id="chemin" href="#vague" startOffset="100">
+             ouagadougou   se   reposer et se restauer
+              </textPath>
+            </text>
+            </svg>
+<br><br>
+
+
     <?php
   include("footer.php")
   ?>
    
+
+
+
+
 </body>
 </html>

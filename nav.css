@@ -35,9 +35,18 @@ nav{
 nav ul{
     display: flex;
     justify-content: space-between;
-    width: 40%;
+    width: 30%;
     font-size: 20px;
-   ;
+   
+}
+button{
+    /* width: 50px; */
+    /* height: 40px; */
+    cursor: pointer;
+    padding: 4px;
+    font-size: 15px;
+    border: none;
+    background-color: #e20e0e;
 }
 li{
     list-style: none;
