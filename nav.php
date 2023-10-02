@@ -1,3 +1,14 @@
+<?php
+  // Initialiser la session
+  session_start();
+  // Vérifiez si l'utilisateur est connecté, sinon redirigez-le vers la page de connexion
+  if(!isset($_SESSION[""])){
+    // header("Location: l.php");
+    // exit(); 
+  }
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,8 +27,8 @@
 
         <li><a href="ouaga.php">OUAGADOUGOU</a></li>
         <li><a href="bobo.php">BOBO</a></li>
-        <!-- <li><a href="">KOUDOUGOU</a></li> -->
-        <a href="contact.php"><button>Register</button></a>
+        <!-- <a href="add.php">add</a> -->
+        <a href="contact.php"><button> <a href="layout.php">Déconnexion</a></button></a>
         </ul>
     </nav><br><br><br><br>
 

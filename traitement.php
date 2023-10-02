@@ -36,7 +36,7 @@
             }
         }
         ?>
-            <form action="log.php" method="post"><br><br>
+            <form action="k.php" method="post"><br><br>
                 <input class="input" type="text" placeholder="email" name="email"><br>
                 <?php if(!empty($erreur)){ ?>
         <div id="i"><?php echo $erreur ?></div>
